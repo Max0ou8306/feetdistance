@@ -22,6 +22,3 @@ C:\Users\Maxime\Desktop\Perso\C++\atom\feetdistance\main.cpp:70:19: warning: mul
 C:\Users\Maxime\Desktop\Perso\C++\atom\feetdistance\main.cpp:74:19: warning: multi-character character constant [-Wmultichar]
    if (pointure >= '46'){
                    ^~~~
-C:\Users\Maxime\Desktop\Perso\C++\atom\feetdistance\main.cpp:4:1: error: 'bite' does not name a type
- bite
- ^~~~
