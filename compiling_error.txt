@@ -1,0 +1,27 @@
+C:\Users\Maxime\Desktop\Perso\C++\atom\feetdistance\main.cpp:37:19: warning: multi-character character constant [-Wmultichar]
+   if (pointure == '40'){
+                   ^~~~
+C:\Users\Maxime\Desktop\Perso\C++\atom\feetdistance\main.cpp:42:19: warning: multi-character character constant [-Wmultichar]
+   if (pointure == '41'){
+                   ^~~~
+C:\Users\Maxime\Desktop\Perso\C++\atom\feetdistance\main.cpp:47:19: warning: multi-character character constant [-Wmultichar]
+   if (pointure == '42'){
+                   ^~~~
+C:\Users\Maxime\Desktop\Perso\C++\atom\feetdistance\main.cpp:52:19: warning: multi-character character constant [-Wmultichar]
+   if (pointure == '43'){
+                   ^~~~
+C:\Users\Maxime\Desktop\Perso\C++\atom\feetdistance\main.cpp:57:19: warning: multi-character character constant [-Wmultichar]
+   if (pointure == '44'){
+                   ^~~~
+C:\Users\Maxime\Desktop\Perso\C++\atom\feetdistance\main.cpp:62:19: warning: multi-character character constant [-Wmultichar]
+   if (pointure == '45'){
+                   ^~~~
+C:\Users\Maxime\Desktop\Perso\C++\atom\feetdistance\main.cpp:70:19: warning: multi-character character constant [-Wmultichar]
+   if (pointure <= '39'){
+                   ^~~~
+C:\Users\Maxime\Desktop\Perso\C++\atom\feetdistance\main.cpp:74:19: warning: multi-character character constant [-Wmultichar]
+   if (pointure >= '46'){
+                   ^~~~
+C:\Users\Maxime\Desktop\Perso\C++\atom\feetdistance\main.cpp:4:1: error: 'bite' does not name a type
+ bite
+ ^~~~
